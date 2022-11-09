@@ -1,3 +1,10 @@
+[class*="col-"]{
+  /* border: 1px solid rgb(0, 0, 0); */
+  color: white;
+  text-align: center;
+  height: 50px;
+}
+
 .black{
   background-color: black;
 }
