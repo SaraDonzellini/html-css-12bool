@@ -1,10 +1,12 @@
-*{
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
 
 body{
   font-family: 'Poppins', sans-serif;
 }
 
+.nested{
+  background-color: #01e165;
+  border: 1px solid #1f57fe;
+  height: 50px;
+  line-height: 100%;
+  font-size: 0,7rem;
+}
