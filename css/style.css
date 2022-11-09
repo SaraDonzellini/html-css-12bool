@@ -1,12 +1,21 @@
-
-body{
-  font-family: 'Poppins', sans-serif;
+body {
+  font-family: "Poppins", sans-serif;
 }
 
-.nested{
+[class*="col-"] {
+  border: 1px solid white;
+  background-color: #1f57fe;
+  color: white;
+  text-align: center;
+  line-height: 3rem;
+  height: 70px;
+  padding: 10px;
+}
+
+.nested {
   background-color: #01e165;
   border: 1px solid #1f57fe;
   height: 50px;
   line-height: 100%;
-  font-size: 0,7rem;
+  font-size: 0, 7rem;
 }
